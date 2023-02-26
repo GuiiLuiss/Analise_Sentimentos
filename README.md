@@ -1,4 +1,5 @@
 # Analise_de_Sentimentos
+Link do projeto: https://colab.research.google.com/drive/1jh10pnhDOqIAPUdqK4L5B_RN-os1ehUl
 
 # Objetivo
 Com base nas informações dispostas nesse conjunto de dados, irei trabalhar no tratamento, limpeza e transformação do texto com o objetivo de treinar um modelo de machine learning capaz de classificar cada amostra do dataset como uma das seguintes labels: positiva, negativa ou neutra.
